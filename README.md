@@ -1,6 +1,22 @@
 100-Days-of-RTL/
 └── Day01_AND_Gate/
-    ├── and_gate.v
-    ├── testbench.v
+    ├── and_gate.sv
+    ├── testbench.sv
     ├── waveform.png
     └── README.md
+└── Day02_NOR_NAND_XOR_Gate/
+    └── NOR_Gate/
+       ├── design.sv
+       ├── testbench.sv
+       ├── waveform.png
+       └── README.md
+    └── NAND_Gate/
+       ├── design.sv
+       ├── testbench.sv
+       ├── waveform.png
+       └── README.md
+    └── XOR_Gate/
+       ├── design.sv
+       ├── testbench.sv
+       ├── waveform.png
+       └── README.md
