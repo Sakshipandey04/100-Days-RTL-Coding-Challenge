@@ -20,3 +20,7 @@
        ├── testbench.sv
        ├── waveform.png
        └── README.md
+    └── Day03half_adder/
+         └── dataflow_modeling
+         └── behavioral_modeling
+         └── structural_modeling
