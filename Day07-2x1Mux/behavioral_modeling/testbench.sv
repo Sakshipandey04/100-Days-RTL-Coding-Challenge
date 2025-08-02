@@ -1,7 +1,7 @@
-module tb_mux2x1_df;
+module tb_mux2x1_behave;
   reg A, B, Sel;
   wire Y;
-  mux2x1_df uut(.A(A), .B(B), .Sel(Sel), .Y(Y));
+  mux2x1_behave uut(.A(A), .B(B), .Sel(Sel), .Y(Y));
   
   initial begin
     $dumpfile("dump.vcd");
