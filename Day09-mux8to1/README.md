@@ -1,6 +1,6 @@
-## README – Day 09: RTL Coding Challenge
+## Day 09: RTL Coding Challenge
 
-## Day 08- 8x1 Multiplexer using Behavioral Modeling
+## 8x1 Multiplexer using Behavioral Modeling
 
 ## Objective:
 To implement an 8-to-1 Multiplexer (MUX) using behavioral modeling in Verilog and verify its functionality with a testbench.
