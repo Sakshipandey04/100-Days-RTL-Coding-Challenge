@@ -31,6 +31,3 @@ Practiced arithmetic combinational logic design.
 
 Understood how to handle valid and invalid inputs in Verilog.
 
----
-
-Do you want me to also prepare Day 23 topic suggestion** (something new but still based on combinational logic)?
