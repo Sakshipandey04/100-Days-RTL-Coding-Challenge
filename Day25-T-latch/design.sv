@@ -5,9 +5,9 @@ module t_latch(
   always@(clk or T) begin
     if(clk)begin
       if(T)
-        Q= ~Q;
+        Q<= ~Q;
       else
-        Q=Q;
+        Q <= Q;
     end
   end
 endmodule
