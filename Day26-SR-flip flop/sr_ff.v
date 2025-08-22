@@ -1,24 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 22.08.2025 19:29:27
-// Design Name: 
-// Module Name: sr_ff
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
+// Create Date: 22.08.2025 19:29:27 
+// Module Name: sr_ff ///
 
 module sr_ff(
    input S, R,
