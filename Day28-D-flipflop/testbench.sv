@@ -25,7 +25,7 @@ module tb_D_flipflop;
         $monitor("T=%0t | clk=%b | D=%b | reset=%b | Q=%b", 
                   $time, clk, D, reset, Q);
       $dumpfile("D_flipflop.vcd");
-      $dumpvars(0, tb_D_latch);
+        $dumpvars(0, tb_D_flipflop);
 
         D = 0; reset = 1;
         #10 reset = 0;   
