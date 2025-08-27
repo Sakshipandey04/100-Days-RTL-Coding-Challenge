@@ -94,5 +94,3 @@ Learned to properly separate design and testbench in Vivado.
 Debugged simulation launch issues by setting testbench as Simulation Top.
 
 Understood how Master-Slave eliminates race-around.
-
-👉 Do you want me to also draw a simple block diagram (Master latch + Slave latch with clock arrows) and add it in your README for clarity? That would make your challenge report more visual and professional
