@@ -69,8 +69,7 @@ J	K	Action	Description
 
 
 ## Simulation Results
-
-✅ The Vivado behavioral simulation matched theoretical expectations.
+The Vivado behavioral simulation matched theoretical expectations.
 
 Reset: Q=0, Qn=1
 
@@ -84,7 +83,7 @@ Hold: Q remains unchanged
 
 
 Waveform Screenshot (Vivado):
-(Insert your simulation screenshot here)
+Waveform_jk_ms_ff.png
 
 ## Key Takeaways
 
