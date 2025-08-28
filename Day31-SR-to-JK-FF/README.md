@@ -1,5 +1,5 @@
 ## Day 31 – SR to JK Flip-Flop Conversion
-/**Overview**/
+*Overview*
 
 In this task, I implemented the conversion of an SR Flip-Flop into a JK Flip-Flop using logic equations and the mapping of inputs.
 The conversion is based on deriving equivalent SR inputs from the JK inputs such that the SR flip-flop behaves exactly like a JK flip-flop.
