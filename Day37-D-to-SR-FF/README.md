@@ -3,9 +3,7 @@
 ## Project summary
 This project shows how an SR (Set-Reset) flip-flop can be realized using a D flip-flop by driving the D input with the expression:
 
-\[
-D = S + (\overline{R} \cdot Q)
-\]
+D = S + (Rbar. Q)
 
 Below are the SR truth table and the excitation table that shows required SR inputs for state transitions and the corresponding D value (since a D-FF directly follows \(Q_{next}=D\)).
 
@@ -38,10 +36,10 @@ This table lists the **current state** `Q(t)`, the **desired next state** `Q(t+1
 - When implementing SR with a D flip-flop, ensure `S=R=1` is prevented or handled, because feeding such a combination may produce an undefined/undesired effect depending on implementation and timing.
 
 ## References / Useful formulas
-- Conversion equation used:  
+Conversion equation used:  
   \[
   \boxed{D = S + (\overline{R} \cdot Q)}
   \]
-- D flip-flop behavior: \(Q_{next} = D\)
+D flip-flop behavior: \(Q_{next} = D\)
 
 
