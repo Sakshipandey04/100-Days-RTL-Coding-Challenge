@@ -35,11 +35,3 @@ This table lists the **current state** `Q(t)`, the **desired next state** `Q(t+1
 - The input combination `S=1, R=1` is **invalid** for the SR flip-flop and should be avoided in designs.  
 - When implementing SR with a D flip-flop, ensure `S=R=1` is prevented or handled, because feeding such a combination may produce an undefined/undesired effect depending on implementation and timing.
 
-## References / Useful formulas
-Conversion equation used:  
-  \[
-  \boxed{D = S + (\overline{R} \cdot Q)}
-  \]
-D flip-flop behavior: \(Q_{next} = D\)
-
-
