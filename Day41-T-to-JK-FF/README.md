@@ -1,4 +1,4 @@
-# Day 41 – RTL Challenge: JK → T Flip-Flop Conversion
+# Day 41 – RTL Challenge: T to JK Flip-Flop Conversion
 
 ## Objective
 
