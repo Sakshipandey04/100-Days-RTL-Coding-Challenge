@@ -54,5 +54,3 @@ $$
 
 * Therefore, connecting the input of the T flip-flop to **D ⊕ Q** makes the T flip-flop behave exactly like a D flip-flop
 
-Would you like me to also prepare a **diagram-based README version** (with logic gate representation of the conversion)?
-
