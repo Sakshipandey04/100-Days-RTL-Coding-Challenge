@@ -91,5 +91,4 @@ We can implement this with **three main states**:
 | 3     | 1           | 0          | WAIT      |
 | 4     | 0           | 0          | IDLE      |
 
-Do you want me to do that next?
 
