@@ -7,7 +7,7 @@ Design a **Finite State Machine (FSM)** that unlocks when the correct **3-bit pa
 * **Input Signals:**
 
   * `clk` → system clock
-  * `rst_n` → active-low reset
+  * `rst` → active-low reset
   * `enter` → pulse to sample input bit
   * `inbit` → serial input bit (LSB-first)
 
