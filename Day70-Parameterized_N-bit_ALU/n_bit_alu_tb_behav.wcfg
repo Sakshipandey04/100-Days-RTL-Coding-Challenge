@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="n_bit_alu_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="n_bit_alu_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.315 ns"></ZoomStartTime>
+      <ZoomEndTime time="80.316 ns"></ZoomEndTime>
+      <Cursor1Time time="14.405 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="127"></NameColumnWidth>
+      <ValueColumnWidth column_width="129"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/n_bit_alu_tb/A" type="array">
+      <obj_property name="ElementShortName">A[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/n_bit_alu_tb/B" type="array">
+      <obj_property name="ElementShortName">B[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/n_bit_alu_tb/ALU_sel" type="array">
+      <obj_property name="ElementShortName">ALU_sel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_sel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/n_bit_alu_tb/ALU_out" type="array">
+      <obj_property name="ElementShortName">ALU_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_out[7:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/n_bit_alu_tb/CarryOut" type="logic">
+      <obj_property name="ElementShortName">CarryOut</obj_property>
+      <obj_property name="ObjectShortName">CarryOut</obj_property>
+   </wvobject>
+</wave_config>
